@@ -1,4 +1,4 @@
-###Client:
+### Client:
 
 Company that makes Academic Maths Papers easier to read.
 
@@ -11,7 +11,7 @@ as a string calculator.
 - Outputs original sum string, along with evaluated result.
 - Standalone program.
 
-###Acceptance Criteria
+### Acceptance Criteria
 Input:
 - Will always be a String.
 - String can be empty.
@@ -23,10 +23,10 @@ Output:
 i.e ```"3 + 3"``` would output: ```["3 + 3", 6]```
 
 Possible operators in string:
-+ = add
-- = subtract
-* = multiply
-/ = divide
+\+ = add
+\- = subtract
+\* = multiply
+\/ = divide
 
 The string will always contain two numbers, these could be multiple digits
 and could be decimal places.
